@@ -4,7 +4,7 @@ A simple repo with a clean dev environment for Python projects.
 
 ## Usage
 
-Edit `requirements.txt` to add the dependencies you need.
+Edit `requirements.txt` or `requirements-dev.txt` to add the dependencies you need.
 
 Run:
 
